@@ -1,0 +1,15 @@
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\bin\Debug\net6.0\Week15.exe
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\bin\Debug\net6.0\Week15.deps.json
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\bin\Debug\net6.0\Week15.runtimeconfig.json
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\bin\Debug\net6.0\Week15.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\bin\Debug\net6.0\Week15.pdb
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\Week15.csproj.AssemblyReference.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\Week15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\Week15.AssemblyInfoInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\Week15.AssemblyInfo.cs
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\Week15.csproj.CoreCompileInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\Week15.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\refint\Week15.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\Week15.pdb
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\Week15.genruntimeconfig.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week15\Week15\obj\Debug\net6.0\ref\Week15.dll
